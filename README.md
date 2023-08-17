@@ -14,7 +14,10 @@ Structure `assignment1.py` as in the assignment1.py , wherein you’re welcome t
 
 ---------------
 ### Assignment 2:
+In a file named assignment2.py, implement a function called `extract_insta_id` that takes a URL of an Instagram profile as input (a string) and returns the Instagram username or ID. The function should extract the `username` or `ID` from the provided URL.
 
+__NOTE__ :
+Structure `assignment3.py`, wherein you're welcome to modify the `main` function and/or implement other functions as you see fit, but you may not import any other libraries. You're welcome, but not required, to use `re` and/or `sys`.
 
 
 ---------------
