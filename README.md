@@ -1,7 +1,11 @@
-# regex-workshop
+# regex workshop assignments
 
-## Steps to setup:
+## Steps to setup, code and submit
 
+1. Create a new repo using this repo template.
+2. Clone the repo to your machine or use the codespaces.
+3. Code the submission in your repo and push all changes.
+4. Submit the repo link in the submission form
 
 ## Assignments
 
@@ -28,7 +32,9 @@ __NOTE__ :
 Structure `assignment3.py`, wherein you’re welcome to modify `main` and/or implement other functions as you see fit, but you may not import any other libraries. You’re welcome, but not required, to use `re` and/or `sys`
 
 ---------------
-## Steps to submit
+
 
 ## Contact
+
+Contact peccodingsociety@gmail.com for more info.
 
